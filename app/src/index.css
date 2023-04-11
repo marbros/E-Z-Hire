@@ -1,0 +1,28 @@
+/* 
+body
+{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color:hsla(242,100%,50%,1);
+    background-image:
+    radial-gradient(at 40% 20%, hsla(240,77%,11%,1) 0px, transparent 50%),
+    radial-gradient(at 80% 0%, hsla(187,100%,56%,1) 0px, transparent 50%),
+    radial-gradient(at 0% 50%, #1453ff 0px, transparent 50%),
+    radial-gradient(at 79% 51%, #1b0e6c 0px, transparent 50%),
+    radial-gradient(at 0% 100%, hsla(231,100%,6%,1) 0px, transparent 50%),
+    radial-gradient(at 80% 100%, #0044ff 0px, transparent 50%),
+    radial-gradient(at 0% 0%, #001275 0px, transparent 50%);
+} */
+
+h4
+{
+    color: #fffce2;
+}
